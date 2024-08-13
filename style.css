@@ -76,6 +76,14 @@ width: 10px;
 .navbfr li{
     height: 50px;
     }
+.navfbr a{
+     padding: o 30px;
+    text-decoration: none;
+    display: flex;
+     align-items: center
+    color: black;
+    }
+    
 .navbar a{
     align-items: center;
     display: block;
