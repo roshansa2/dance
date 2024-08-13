@@ -83,10 +83,12 @@ width: 10px;
 
 .navbor ul li {
     display: block;
+    
 }
 
 .navbor ul li a {
     text-decoration: none;
+    width: 60px;
     color: #333;
     padding: 8px 16px;
     border-radius: 4px;
