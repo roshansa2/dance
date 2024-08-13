@@ -64,7 +64,7 @@ width: 10px;
     background: var(--maincolor);
     text-align: center;
 }
-.navbar ul{
+.navbfr ul{
       width: 100%;
     list-style: none;
       display: flex;
@@ -73,7 +73,7 @@ width: 10px;
     
    } 
 
-.navbar li{
+.navbfr li{
     height: 50px;
     }
 .navbar a{
