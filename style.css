@@ -66,6 +66,18 @@ left: 0;
     background: var(--maincolor);
     text-align: center;
 }
+.navbar ul{
+      width: 100%;
+    list-style: none;
+      display: flex;
+    justify-content: flex-end;
+     align-items: center;
+    
+   } 
+
+.navbar li{
+    height: 50px;
+    }
 .navbar a{
     align-items: center;
     display: block;
