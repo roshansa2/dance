@@ -64,6 +64,19 @@ width: 10px;
     background: var(--maincolor);
     text-align: center;
 }
+.navbfr{
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100vh;
+    widith: 250px;
+    box-shadow: -10px 0 10px rgba(0,0,0,0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    } 
+    
 .navbfr ul{
       width: 100%;
     list-style: none;
@@ -74,7 +87,7 @@ width: 10px;
    } 
 
 .navbfr li{
-    height: 50px;
+    width: 100%;
     }
 .navbfr a{
     height: 100%;
