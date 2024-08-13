@@ -77,10 +77,11 @@ width: 10px;
     height: 50px;
     }
 .navfbr a{
-     padding: o 30px;
+    height: 100%;
+     padding: 0 30px;
     text-decoration: none;
     display: flex;
-     align-items: center
+     align-items: center;
     color: black;
     }
     
