@@ -64,6 +64,44 @@ width: 10px;
     background: var(--maincolor);
     text-align: center;
 }
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navbor {
+    position: fixed;
+    top: 0;
+    right: 0;
+    margin: 10px;
+}
+
+.navbor ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 15px;
+}
+
+.navbor ul li {
+    display: inline;
+}
+
+.navbor ul li a {
+    text-decoration: none;
+    color: #333;
+    padding: 8px 16px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+.navbor ul li a:hover {
+    background-color: #555;
+    color: #fff;
+}
+
 .navbfr{
     position: fixed;
     top: 0;
