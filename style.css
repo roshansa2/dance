@@ -82,7 +82,7 @@ width: 10px;
 }
 
 .navbor ul li {
-    display: column;
+    display: block;
 }
 
 .navbor ul li a {
