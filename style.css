@@ -46,9 +46,7 @@ width: 10px;
     width: auto;
  height: 200px;
 }
-.container-fluid {
-    flex-direction: column;
-  }
+
 .icons div{
     margin-left: 1rem;
     font-size: 2rem;
