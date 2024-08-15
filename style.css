@@ -63,24 +63,8 @@ width: 10px;
   background-color: var(--seondcolor);
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.1);
 }
-nav ul{
-  width: 100%;
-   
-  flex-direction: row;
-  align-items: center;
-}
-nav li{
-  height: 50px;
-}
-nav a{
-  height: 100%;
-  padding: 0 30px;
-     
-  text-decoration: none;
-  display: flex;
-  align-items: center;
-  color: black;
-}
+ 
+ 
 nav a:hover{
   background-color: #f0f0f0;
 }
