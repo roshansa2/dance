@@ -52,10 +52,9 @@ width: 10px;
 .navbar-brand img{
  width: 200px;
  }
-
-.navbar-brand {
- width: 100%;
-}
+.navbar {
+    flex-direction: column;
+  }
 .navbar .navbar-nav .nav-link {
     color: #000000;
     font-size: 1.1em;
