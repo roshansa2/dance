@@ -65,8 +65,7 @@ width: 10px;
 nav ul{
   width: 100%;
   list-style: none;
-  display: flex;
-  justify-content: flex-end;
+  
   align-items: center;
 }
 nav li{
