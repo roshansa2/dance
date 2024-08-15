@@ -48,6 +48,10 @@ width: 10px;
  height: 200px;
 }
 
+.stick{
+ position: fixed;
+ }
+
 .navbar .navbar-nav .nav-link {
     color: #000000;
     font-size: 1.1em;
