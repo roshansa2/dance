@@ -53,6 +53,9 @@ width: 10px;
  width: 200px;
  }
 
+.navbar-brand {
+ width: 100%;
+}
 .navbar .navbar-nav .nav-link {
     color: #000000;
     font-size: 1.1em;
